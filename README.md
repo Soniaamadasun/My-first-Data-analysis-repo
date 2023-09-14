@@ -1,6 +1,5 @@
-# Project Name: W-Tech Job Application Tracking
+# Project Name:
 
-![]()
 
 ----
 # Project Objective: Problem Statement 
